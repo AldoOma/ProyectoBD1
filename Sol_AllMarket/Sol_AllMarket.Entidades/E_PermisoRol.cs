@@ -1,0 +1,22 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Sol_AllMarket.Entidades
+{
+    public class E_PermisoRol
+    {
+        public int Id { get; set; }
+
+        public int IdRol { get; set; }
+
+        public int IdOpcion { get; set; }
+
+        public bool Permitido { get; set; }
+
+        public int IdModulo { get; set; }
+
+    }
+}

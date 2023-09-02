@@ -1,0 +1,9 @@
+C:\AllMarket\Sol_AllMarket\Sol_AllMarket.Datos\bin\Debug\Sol_AllMarket.Datos.dll
+C:\AllMarket\Sol_AllMarket\Sol_AllMarket.Datos\bin\Debug\Sol_AllMarket.Datos.pdb
+C:\AllMarket\Sol_AllMarket\Sol_AllMarket.Datos\bin\Debug\Sol_AllMarket.Entidades.dll
+C:\AllMarket\Sol_AllMarket\Sol_AllMarket.Datos\bin\Debug\Sol_AllMarket.Entidades.pdb
+C:\AllMarket\Sol_AllMarket\Sol_AllMarket.Datos\obj\Debug\Sol_AllMarket.Datos.csproj.AssemblyReference.cache
+C:\AllMarket\Sol_AllMarket\Sol_AllMarket.Datos\obj\Debug\Sol_AllMarket.Datos.csproj.CoreCompileInputs.cache
+C:\AllMarket\Sol_AllMarket\Sol_AllMarket.Datos\obj\Debug\Sol_AllMarket.Datos.csproj.CopyComplete
+C:\AllMarket\Sol_AllMarket\Sol_AllMarket.Datos\obj\Debug\Sol_AllMarket.Datos.dll
+C:\AllMarket\Sol_AllMarket\Sol_AllMarket.Datos\obj\Debug\Sol_AllMarket.Datos.pdb
